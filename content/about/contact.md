@@ -1,15 +1,14 @@
+---
+title: Contact
+description: Contact links for Zihan Jin.
+---
+
 # Contact
 
-!!! note "Status"
-    This page is a placeholder in the **Open NeuroAI Lab** framework.
+The best places to connect:
 
-## Purpose
+- GitHub: [Zihan-Zoe](https://github.com/Zihan-Zoe)
+- LinkedIn: [your-linkedin-username](https://www.linkedin.com/in/your-linkedin-username/)
+- X: [your-x-username](https://x.com/your-x-username)
 
-Use this page to organize notes, links, concepts, mini projects, and references related to **Contact**.
-
-## Links
-
-- Related courses:
-- Related paper notes:
-- Related mini projects:
-- Related resources:
+For now, replace the LinkedIn and X placeholders with your actual profile URLs.

@@ -1,15 +1,47 @@
-# Cv
+---
+title: CV
+description: Curriculum vitae for Zihan Jin.
+---
 
-!!! note "Status"
-    This page is a placeholder in the **Open NeuroAI Lab** framework.
+# Zihan Jin
 
-## Purpose
+Open NeuroAI Lab  
+GitHub: [Zihan-Zoe](https://github.com/Zihan-Zoe)  
+LinkedIn: [your-linkedin-username](https://www.linkedin.com/in/your-linkedin-username/)  
+X: [your-x-username](https://x.com/your-x-username)
 
-Use this page to organize notes, links, concepts, mini projects, and references related to **Cv**.
+## Research Areas
 
-## Links
+- NeuroAI
+- Brain-computer interfaces
+- Neural decoding
+- Representation learning
+- Computational neuroscience
 
-- Related courses:
-- Related paper notes:
-- Related mini projects:
-- Related resources:
+## Education
+
+Add degree, institution, location, and dates here.
+
+## Research Experience
+
+Add lab roles, research assistantships, independent projects, and collaborations here.
+
+## Selected Projects
+
+- [Open NeuroAI Lab](../../): personal research website and open notebook.
+- Add public projects here as they become shareable.
+
+## Publications and Manuscripts
+
+Add publications, preprints, posters, and manuscripts in preparation here.
+
+## Skills
+
+- Programming:
+- Machine learning:
+- Neuroscience methods:
+- Tools:
+
+## Awards
+
+Add honors, scholarships, grants, and awards here.
