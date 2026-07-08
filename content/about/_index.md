@@ -4,7 +4,7 @@ description: Curriculum vitae for Zihan Jin.
 ---
 
 <section class="profile-hero">
-  <img class="profile-avatar" src="/open-neuroai-lab-v2/images/avatar.svg" alt="Zihan Jin avatar">
+  <img class="profile-avatar" src="/open-neuroai-lab-v2/images/IMG_6291.JPG" alt="Zihan Jin avatar">
   <div>
     <p class="profile-kicker">Open NeuroAI Lab</p>
     <h1>Zihan Jin</h1>
