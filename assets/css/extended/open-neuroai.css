@@ -1,0 +1,16 @@
+.post-content table {
+  display: table;
+  width: 100%;
+}
+
+.post-content th {
+  text-align: left;
+}
+
+.post-content code {
+  word-break: break-word;
+}
+
+.home-info .entry-content {
+  max-width: 760px;
+}

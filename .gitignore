@@ -1,0 +1,9 @@
+public/
+resources/_gen/
+.hugo_build.lock
+.hugo_cache/
+.cache/
+.venv/
+site/
+__pycache__/
+.DS_Store

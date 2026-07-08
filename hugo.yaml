@@ -1,0 +1,92 @@
+baseURL: https://Zihan-Zoe.github.io/open-neuroai-lab-v2/
+languageCode: en-us
+title: Open NeuroAI Lab
+theme: PaperMod
+
+enableRobotsTXT: true
+enableEmoji: true
+
+pagination:
+  pagerSize: 10
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    noClasses: false
+
+params:
+  env: production
+  description: Personal research website for NeuroAI, brain-computer interfaces, representation learning, paper notes, courses, and open-source research.
+  author: Zihan Jin
+  defaultTheme: auto
+  ShowReadingTime: false
+  ShowShareButtons: false
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowToc: true
+  TocOpen: false
+  hideFooter: false
+  comments: false
+  disableThemeToggle: false
+  label:
+    text: Open NeuroAI Lab
+
+  homeInfoParams:
+    Title: Open NeuroAI Lab
+    Content: Open research notes for NeuroAI, brain-computer interfaces, representation learning, neural decoding, computational neuroscience, and brain-inspired AI systems.
+
+  socialIcons:
+    - name: github
+      url: https://github.com/Zihan-Zoe/open-neuroai-lab-v2
+
+menu:
+  main:
+    - identifier: research-modules
+      name: Research
+      url: /research-modules/
+      weight: 10
+    - identifier: courses
+      name: Courses
+      url: /courses/
+      weight: 20
+    - identifier: paper-notes
+      name: Paper Notes
+      url: /paper-notes/
+      weight: 30
+    - identifier: projects
+      name: Projects
+      url: /projects/
+      weight: 40
+    - identifier: blog
+      name: Blog
+      url: /blog/
+      weight: 50
+    - identifier: resources
+      name: Resources
+      url: /resources/
+      weight: 60
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 70
+    - identifier: search
+      name: Search
+      url: /search/
+      weight: 80
+    - identifier: archives
+      name: Archives
+      url: /archives/
+      weight: 90
+
+taxonomies:
+  category: categories
+  tag: tags
