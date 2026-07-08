@@ -15,7 +15,7 @@ description: Curriculum vitae for Zihan Jin.
       <p>GitHub: <a href="https://github.com/Zihan-Zoe">Zihan-Zoe</a></p>
       <p>LinkedIn: <a href="https://www.linkedin.com/in/your-linkedin-username/">your-linkedin-username</a></p>
       <p>X: <a href="https://x.com/your-x-username">your-x-username</a></p>
-      <p>Contact: <a href="contact/">contact page</a></p>
+      <p>Contact: GitHub, LinkedIn, or X</p>
     </div>
     <div class="profile-links">
       <a href="https://github.com/Zihan-Zoe">GitHub</a>
