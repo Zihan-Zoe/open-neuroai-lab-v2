@@ -50,6 +50,10 @@ params:
 
 menu:
   main:
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 5
     - identifier: research-modules
       name: Research
       url: /research-modules/
@@ -74,14 +78,6 @@ menu:
       name: Resources
       url: /resources/
       weight: 60
-    - identifier: about
-      name: Home
-      url: /about/
-      weight: 70
-    - identifier: cv
-      name: CV
-      url: /about/cv/
-      weight: 75
     - identifier: search
       name: Search
       url: /search/
