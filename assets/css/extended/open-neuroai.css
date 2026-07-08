@@ -46,10 +46,19 @@
 
 .profile-summary {
   max-width: 680px;
-  margin: 0 0 18px;
+  margin: 0 0 14px;
   color: var(--secondary);
   font-size: 1.05rem;
   line-height: 1.65;
+}
+
+.profile-contact {
+  margin: 0 0 18px;
+  color: var(--secondary);
+}
+
+.profile-contact p {
+  margin: 4px 0;
 }
 
 .profile-links {

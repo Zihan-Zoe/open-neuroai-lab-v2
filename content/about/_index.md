@@ -1,6 +1,6 @@
 ---
-title: Zihan Jin
-description: Personal homepage for Zihan Jin.
+title: CV
+description: Curriculum vitae for Zihan Jin.
 ---
 
 <section class="profile-hero">
@@ -9,18 +9,58 @@ description: Personal homepage for Zihan Jin.
     <p class="profile-kicker">Open NeuroAI Lab</p>
     <h1>Zihan Jin</h1>
     <p class="profile-summary">
-      I am building an open research notebook around NeuroAI, brain-computer interfaces,
-      representation learning, neural decoding, and computational neuroscience.
+      Curriculum vitae for Zihan Jin.
     </p>
+    <div class="profile-contact">
+      <p>GitHub: <a href="https://github.com/Zihan-Zoe">Zihan-Zoe</a></p>
+      <p>LinkedIn: <a href="https://www.linkedin.com/in/your-linkedin-username/">your-linkedin-username</a></p>
+      <p>X: <a href="https://x.com/your-x-username">your-x-username</a></p>
+      <p>Contact: <a href="contact/">contact page</a></p>
+    </div>
     <div class="profile-links">
       <a href="https://github.com/Zihan-Zoe">GitHub</a>
       <a href="https://www.linkedin.com/in/your-linkedin-username/">LinkedIn</a>
       <a href="https://x.com/your-x-username">X</a>
-      <a href="cv/">CV</a>
       <a href="research-statement/">Research</a>
     </div>
   </div>
 </section>
+
+## Research Areas
+
+- NeuroAI
+- Brain-computer interfaces
+- Neural decoding
+- Representation learning
+- Computational neuroscience
+
+## Education
+
+Add degree, institution, location, and dates here.
+
+## Research Experience
+
+Add lab roles, research assistantships, independent projects, and collaborations here.
+
+## Selected Projects
+
+- [Open NeuroAI Lab](../): personal research website and open notebook.
+- Add public projects here as they become shareable.
+
+## Publications and Manuscripts
+
+Add publications, preprints, posters, and manuscripts in preparation here.
+
+## Skills
+
+- Programming:
+- Machine learning:
+- Neuroscience methods:
+- Tools:
+
+## Awards
+
+Add honors, scholarships, grants, and awards here.
 
 ## Research Interests
 
@@ -28,16 +68,3 @@ description: Personal homepage for Zihan Jin.
 - Representation learning, latent spaces, and neural manifolds
 - NeuroAI connections between biological and artificial learning systems
 - Open scientific workflows for notes, projects, and public research artifacts
-
-## Featured Sections
-
-| Section | What It Contains |
-| --- | --- |
-| [Research Statement](research-statement/) | Research direction, questions, and long-term agenda. |
-| [CV](cv/) | Education, research experience, selected projects, skills, and publications. |
-| [Projects](../projects/) | Public work, open-source tools, and portfolio projects. |
-| [Paper Notes](../paper-notes/) | Literature notes organized by Neuroscience, AI, NeuroAI, and Methods. |
-
-## Contact
-
-For collaboration, research conversations, or project notes, see [Contact](contact/).
