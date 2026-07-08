@@ -17,15 +17,15 @@
 
 .profile-hero {
   display: grid;
-  grid-template-columns: 160px minmax(0, 1fr);
-  gap: 28px;
+  grid-template-columns: 240px minmax(0, 1fr);
+  gap: 34px;
   align-items: center;
   margin: 8px 0 34px;
 }
 
 .profile-avatar {
-  width: 160px;
-  height: 160px;
+  width: 240px;
+  height: 240px;
   border-radius: 50%;
   object-fit: cover;
   box-shadow: 0 14px 38px rgba(15, 23, 42, 0.18);
@@ -89,7 +89,7 @@
   }
 
   .profile-avatar {
-    width: 132px;
-    height: 132px;
+    width: 180px;
+    height: 180px;
   }
 }
